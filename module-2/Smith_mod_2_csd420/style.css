@@ -1,0 +1,66 @@
+/*
+ * Name: Johnathan Smith
+ * Date: June 13, 2026
+ * Assignment: Module 2.2 Programming Assignment
+ */
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f9fc;
+    color: #333;
+}
+
+header, footer {
+    background-color: #0b3d91;
+    color: #ffffff;
+    padding: 1rem;
+    text-align: center;
+}
+
+h1 {
+    margin: 0.5rem 0;
+    font-size: 1.8rem;
+}
+
+p {
+    margin: 0.5rem 0;
+}
+
+section {
+    padding: 1rem 2rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    background-color: #ffffff;
+}
+
+caption {
+    caption-side: top;
+    font-weight: bold;
+    padding-bottom: 0.5rem;
+}
+
+th, td {
+    border: 1px solid #cccccc;
+    padding: 0.75rem;
+    text-align: left;
+}
+
+th {
+    background-color: #e6eef9;
+    color: #0b3d91;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f6fb;
+}
+
+footer p {
+    font-size: 0.8rem;
+}
